@@ -209,7 +209,7 @@ void DefaultSceneLayer::_CreateScene()
 
 		// Configure the color correction LUT
 		//scene->SetColorLUT(cool);
-		scene->SetColorLUT(warm);
+		scene->SetColorLUT(cus);
 		//scene->SetColorLUT(cus);
 
 
