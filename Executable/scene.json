@@ -5,7 +5,7 @@
 		"z": 0.10000000149011612
 	},
 	"default_material": "null",
-	"main_camera": "5c634ec6-6310-8144-9ecd-242e8b4c91b0",
+	"main_camera": "fada1bc5-5c86-8f42-bc39-321a212d6875",
 	"objects": [
 		{
 			"children": [],
@@ -20,14 +20,14 @@
 					"enabled": true,
 					"far_plane": 1000.0,
 					"fov_radians": 1.5707963705062866,
-					"guid": "5c634ec6-6310-8144-9ecd-242e8b4c91b0",
+					"guid": "fada1bc5-5c86-8f42-bc39-321a212d6875",
 					"near_plane": 0.10000000149011612,
 					"ortho_enabled": false,
 					"ortho_size": 10.0
 				},
 				"SimpleCameraControl": {
 					"enabled": true,
-					"guid": "6b2ea2b6-b50b-8544-b14f-e2c91db9b16e",
+					"guid": "d74f2f80-c150-5145-889c-ad5d4f321686",
 					"mouse_sensitivity": {
 						"x": 0.5,
 						"y": 0.30000001192092896
@@ -40,7 +40,7 @@
 					"shift_mult": 2.0
 				}
 			},
-			"guid": "d4523f6c-e5ae-ac4b-90a2-7b7c70ff6314",
+			"guid": "6faf2a97-b7cc-9b44-90fd-8be85a5783d6",
 			"hide_in_inspector": false,
 			"name": "Main Camera",
 			"parent": "null",
@@ -76,7 +76,7 @@
 						"z": -1.0
 					},
 					"enabled": true,
-					"guid": "5f872a26-c2d6-b345-91aa-3437ab858e73",
+					"guid": "32d54c8e-a7d5-2548-8b3e-f2053f767962",
 					"intensity": 200.12896728515625,
 					"params": {
 						"x": 0.0,
@@ -87,7 +87,7 @@
 					"type": "Point"
 				}
 			},
-			"guid": "9adfcb04-bd5c-9544-8b3e-7a4a7195d69f",
+			"guid": "e34b40cb-cc82-644b-902f-f57d464417cd",
 			"hide_in_inspector": false,
 			"name": "Light1",
 			"parent": "null",
@@ -123,7 +123,7 @@
 						"z": -1.0
 					},
 					"enabled": true,
-					"guid": "50c74e95-adf0-2041-824f-6ad9b78ba685",
+					"guid": "ccda5bc4-fa6a-5240-8ad2-4524d439ee21",
 					"intensity": 200.92213439941406,
 					"params": {
 						"x": 0.0,
@@ -134,7 +134,7 @@
 					"type": "Point"
 				}
 			},
-			"guid": "75962e40-fc2b-e643-a9d7-98e012d364c3",
+			"guid": "0a1f56fc-7f5e-a042-99ed-1b5fff8e5f6e",
 			"hide_in_inspector": false,
 			"name": "Light2",
 			"parent": "null",
@@ -170,7 +170,7 @@
 						"z": -1.0
 					},
 					"enabled": true,
-					"guid": "fd5e1cbd-1c79-9e43-98d8-a65902c441d9",
+					"guid": "a7555718-4fb4-ef4f-b1be-591776eaad9b",
 					"intensity": 200.5988311767578,
 					"params": {
 						"x": 0.0,
@@ -181,7 +181,7 @@
 					"type": "Point"
 				}
 			},
-			"guid": "b0be5178-762a-cf47-a54b-d2a3c1a3706c",
+			"guid": "d499d2a2-8831-dd44-8451-ab05ec327485",
 			"hide_in_inspector": false,
 			"name": "Light3",
 			"parent": "null",
@@ -217,7 +217,7 @@
 						"z": -1.0
 					},
 					"enabled": true,
-					"guid": "d6989b4a-fee0-414c-acf5-c329f8b19976",
+					"guid": "e7b7d95e-9f98-1142-9351-a9ab5c669a37",
 					"intensity": 200.20062255859375,
 					"params": {
 						"x": 0.0,
@@ -228,7 +228,7 @@
 					"type": "Point"
 				}
 			},
-			"guid": "8a2d685e-6934-1949-a8d0-d18875014077",
+			"guid": "915a342f-c8ce-2749-9832-9de499121061",
 			"hide_in_inspector": false,
 			"name": "Light4",
 			"parent": "null",
@@ -264,7 +264,7 @@
 						"z": -1.0
 					},
 					"enabled": true,
-					"guid": "bef3a519-1414-c049-8f41-ac95cdf7cf22",
+					"guid": "671a49fe-1cc1-cc4f-89b8-da0253b8ee5d",
 					"intensity": 200.8000030517578,
 					"params": {
 						"x": 0.0,
@@ -275,7 +275,7 @@
 					"type": "Point"
 				}
 			},
-			"guid": "b184ea58-be4e-a94d-b47a-3bb1c9e0da9f",
+			"guid": "9a39b777-98e9-f747-ab7c-8c8f6bf88b6b",
 			"hide_in_inspector": false,
 			"name": "Light5",
 			"parent": "null",
@@ -308,7 +308,7 @@
 								"y": 50.0,
 								"z": 1.0
 							},
-							"guid": "50d0ca1a-f965-3e43-b8aa-b78bf8d4a9e4",
+							"guid": "acf45806-d3ee-6044-b209-08d0e277241e",
 							"position": {
 								"x": 0.0,
 								"y": 0.0,
@@ -329,7 +329,7 @@
 					],
 					"enabled": true,
 					"group": 1,
-					"guid": "8eac14cf-3c5e-7f44-8ebe-047def692ecf",
+					"guid": "26aa176e-e6b0-6047-a61a-809256767ed5",
 					"linear_damping": 0.0,
 					"mask": -1,
 					"mass": 1.0,
@@ -337,12 +337,12 @@
 				},
 				"RenderComponent": {
 					"enabled": true,
-					"guid": "6043b229-7687-2f46-894d-7bc874078253",
-					"material": "f1c12967-e5f9-af41-9c76-69712d3315f7",
-					"mesh": "469d704d-77de-6249-8319-884199e77043"
+					"guid": "e1c0bd1b-19b0-1844-a237-d1d7811d367b",
+					"material": "91832cf3-224a-cc40-945b-79526c8e935d",
+					"mesh": "ea3ed1f3-96a6-9249-a5f6-0e8287f0e469"
 				}
 			},
-			"guid": "9b385990-f229-c44f-912f-8a3a7f51ff62",
+			"guid": "f34a9598-80d9-704d-a1b2-cb03a16182be",
 			"hide_in_inspector": false,
 			"name": "Plane",
 			"parent": "null",
@@ -374,7 +374,7 @@
 								"y": 1.0,
 								"z": 1.0
 							},
-							"guid": "5fc0f4c5-e95f-6c47-aa71-0aa0db7d0b35",
+							"guid": "3cfa100a-0183-0045-a41f-c8abfd580747",
 							"position": {
 								"x": 0.0,
 								"y": 0.0,
@@ -395,18 +395,18 @@
 					],
 					"enabled": true,
 					"group": 1,
-					"guid": "cd29e85d-83eb-494b-b713-c033c522b907",
+					"guid": "303f0762-ea9e-9f40-acd2-1b7d73139dbb",
 					"mask": -1
 				},
 				"RenderComponent": {
 					"enabled": true,
-					"guid": "1a6b918f-a441-ec48-9b17-37edb2d1d073",
-					"material": "da2f4af6-26cb-0c41-937e-fe10f00d2427",
-					"mesh": "8c60547b-89d5-8c41-834a-471b94ee577a"
+					"guid": "42eacca5-a86e-714b-baae-3894097a4d7d",
+					"material": "4760d54c-ea1d-054b-8bbe-c40cb491d58c",
+					"mesh": "83ee9ec1-8cf7-0943-b89d-e159491fc4d8"
 				},
 				"RotatingBehaviour": {
 					"enabled": true,
-					"guid": "77343064-84fb-2f49-ae9d-2864d06d7481",
+					"guid": "e234d301-9622-7649-92d2-3464908c0490",
 					"speed": {
 						"x": 0.0,
 						"y": 0.0,
@@ -415,10 +415,10 @@
 				},
 				"TriggerVolumeEnterBehaviour": {
 					"enabled": true,
-					"guid": "002fcf32-7bdd-a54e-afd4-61f607b88a33"
+					"guid": "b0e63b16-d17e-544f-a2e2-2cd14d420b2f"
 				}
 			},
-			"guid": "f859bad3-9844-1b48-88a7-d90659ae1270",
+			"guid": "11cfc8dd-f471-a744-911a-a5de38859710",
 			"hide_in_inspector": false,
 			"name": "Monkey 1",
 			"parent": "null",
@@ -444,12 +444,12 @@
 			"components": {
 				"RenderComponent": {
 					"enabled": true,
-					"guid": "85517c05-fed1-7a4d-90ea-77b4152dd3f4",
-					"material": "53db5958-f448-4a42-b8e4-75c61bc3996f",
-					"mesh": "2518962e-91be-2c4b-849d-ff34264ca714"
+					"guid": "81a14152-7db0-5340-bc66-66d612a6eaf0",
+					"material": "823dfb0b-11ce-c940-b424-46ed023f5cb5",
+					"mesh": "b515deea-525d-1849-ad75-67c5a89863dd"
 				}
 			},
-			"guid": "6f960c29-b430-154a-a6e1-73ebb9258a73",
+			"guid": "5d08d2c1-1d61-be43-be2f-4c0b6e6b0513",
 			"hide_in_inspector": false,
 			"name": "discardBox",
 			"parent": "null",
@@ -475,12 +475,12 @@
 			"components": {
 				"RenderComponent": {
 					"enabled": true,
-					"guid": "ad1bc29a-5b98-8142-90ec-3d93a1c9c344",
-					"material": "967bffba-296a-a047-b69e-fbf10168b4e3",
-					"mesh": "30645882-fc06-2b45-b713-1b8d30e4f766"
+					"guid": "7fc093e7-22b1-e74f-aa4f-8270c92734ac",
+					"material": "9e779626-d416-7a4d-93d0-a0403dd4c01f",
+					"mesh": "692b0bfd-8f51-7949-90f9-c5442e8254e1"
 				}
 			},
-			"guid": "4846a70c-a9c1-e74a-bf99-185f3baf45ac",
+			"guid": "022538a4-2666-db49-a492-9439efd8be10",
 			"hide_in_inspector": false,
 			"name": "Specular Object",
 			"parent": "null",
@@ -507,7 +507,7 @@
 				"Gameplay::Physics::TriggerVolume": {
 					"colliders": [
 						{
-							"guid": "5bc6c09a-c9b2-184b-975e-1d31e21a913a",
+							"guid": "fd2b20e0-67fd-604a-8652-ec16d98b2466",
 							"half_extents": {
 								"x": 3.0,
 								"y": 3.0,
@@ -533,15 +533,15 @@
 					],
 					"enabled": true,
 					"group": 1,
-					"guid": "b1acc364-2f34-dc4e-b3e5-d6be79322bc8",
+					"guid": "f12d440a-b0c0-f947-9531-f5c0bad41a7a",
 					"mask": -1
 				},
 				"TriggerVolumeEnterBehaviour": {
 					"enabled": true,
-					"guid": "47b40cae-f8c7-3e4c-85d5-81df24f775ea"
+					"guid": "ee622428-0600-5648-aa72-17112d2eb666"
 				}
 			},
-			"guid": "708265cc-b0c0-f64c-9634-aa1bdcc44324",
+			"guid": "359fe1c2-8471-ec4f-be09-0121cdc2f155",
 			"hide_in_inspector": false,
 			"name": "Trigger",
 			"parent": "null",
@@ -571,7 +571,7 @@
 			"y": 0.0,
 			"z": 0.0
 		},
-		"shader": "bd961f61-f6bf-fa41-86f4-ca6c4f9cf71d",
-		"texture": "896801a1-1a78-e045-b2b9-b6759fe68022"
+		"shader": "57ef0bca-792e-4842-83de-925dfa4705e1",
+		"texture": "f2bbfd36-e7c4-0343-beb9-742869ba5db3"
 	}
 }
