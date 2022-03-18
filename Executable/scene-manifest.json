@@ -1,0 +1,450 @@
+{
+	"Texture1D": {
+		"2f810cee-c5d9-9a45-ad12-5c1e8b2e204a": {
+			"filename": "luts/toon-1D.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_mode": "",
+			"guid": "2f810cee-c5d9-9a45-ad12-5c1e8b2e204a"
+		}
+	},
+	"Texture2D": {
+		"48f12eac-03bf-c545-9e24-cb221959cbc0": {
+			"anisotropic": 16.0,
+			"filename": "textures/box-diffuse.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "48f12eac-03bf-c545-9e24-cb221959cbc0"
+		},
+		"ed946e4e-b853-5c4d-9983-c1e3696a63f8": {
+			"anisotropic": 16.0,
+			"filename": "textures/box3.bmp",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "ed946e4e-b853-5c4d-9983-c1e3696a63f8"
+		},
+		"1170f84d-1618-5347-b23f-a83569d1f902": {
+			"anisotropic": 16.0,
+			"filename": "textures/box-specular.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "1170f84d-1618-5347-b23f-a83569d1f902"
+		},
+		"fa698d5d-46c2-ec45-9a23-cb32a4db093d": {
+			"anisotropic": 16.0,
+			"filename": "textures/monkey-uvMap.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "fa698d5d-46c2-ec45-9a23-cb32a4db093d"
+		},
+		"9e2d4cdd-da18-4447-b02d-856283eb8684": {
+			"anisotropic": 16.0,
+			"filename": "textures/leaves.png",
+			"filter_mag": "Nearest",
+			"filter_min": "Nearest",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "9e2d4cdd-da18-4447-b02d-856283eb8684"
+		},
+		"2ae2308b-6f1b-c241-af94-8df57ac922ad": {
+			"anisotropic": 16.0,
+			"data": "zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc0zQ",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"format": "RGB",
+			"generate_mipmaps": true,
+			"pixel_type": "Float",
+			"size_x": 1,
+			"size_y": 1,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "2ae2308b-6f1b-c241-af94-8df57ac922ad"
+		},
+		"1ca968a5-1abb-e649-8654-8b4a7c1a887f": {
+			"anisotropic": 16.0,
+			"data": "zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc0zQ",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"format": "RGB",
+			"generate_mipmaps": true,
+			"pixel_type": "Float",
+			"size_x": 1,
+			"size_y": 1,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "1ca968a5-1abb-e649-8654-8b4a7c1a887f"
+		},
+		"764c2675-5c5d-024e-ab36-bba01ae445be": {
+			"anisotropic": 16.0,
+			"data": "zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc0zQ",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"format": "RGB",
+			"generate_mipmaps": true,
+			"pixel_type": "Float",
+			"size_x": 1,
+			"size_y": 1,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "764c2675-5c5d-024e-ab36-bba01ae445be"
+		},
+		"75a59477-84a0-2d49-ae3e-f21b3d23fc9e": {
+			"anisotropic": 16.0,
+			"data": "zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc0zQ",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"format": "RGB",
+			"generate_mipmaps": true,
+			"pixel_type": "Float",
+			"size_x": 1,
+			"size_y": 1,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "75a59477-84a0-2d49-ae3e-f21b3d23fc9e"
+		}
+	},
+	"Texture3D": {
+		"0f70bca3-558c-6d44-95e1-39f0d2f48d64": {
+			"filename": "luts/Cool.CUBE",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_r": "",
+			"wrap_s": "",
+			"wrap_t": "",
+			"guid": "0f70bca3-558c-6d44-95e1-39f0d2f48d64"
+		},
+		"560738c5-32cd-4047-a833-3f0f6808b811": {
+			"filename": "luts/Warm.CUBE",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_r": "",
+			"wrap_s": "",
+			"wrap_t": "",
+			"guid": "560738c5-32cd-4047-a833-3f0f6808b811"
+		},
+		"40b0d4e7-7f7a-cf4f-b6cf-bbb8e62b95ea": {
+			"filename": "luts/Cust.CUBE",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_r": "",
+			"wrap_s": "",
+			"wrap_t": "",
+			"guid": "40b0d4e7-7f7a-cf4f-b6cf-bbb8e62b95ea"
+		}
+	},
+	"TextureCube": {
+		"896801a1-1a78-e045-b2b9-b6759fe68022": {
+			"face_filenames": {
+				"NegX": "E:\\otter-stripped-master2\\bin\\Debug-windows-x86_64\\week6\\cubemaps\\ocean\\ocean_NegX.jpg",
+				"NegY": "E:\\otter-stripped-master2\\bin\\Debug-windows-x86_64\\week6\\cubemaps\\ocean\\ocean_NegY.jpg",
+				"NegZ": "E:\\otter-stripped-master2\\bin\\Debug-windows-x86_64\\week6\\cubemaps\\ocean\\ocean_NegZ.jpg",
+				"PosX": "E:\\otter-stripped-master2\\bin\\Debug-windows-x86_64\\week6\\cubemaps\\ocean\\ocean_PosX.jpg",
+				"PosY": "E:\\otter-stripped-master2\\bin\\Debug-windows-x86_64\\week6\\cubemaps\\ocean\\ocean_PosY.jpg",
+				"PosZ": "E:\\otter-stripped-master2\\bin\\Debug-windows-x86_64\\week6\\cubemaps\\ocean\\ocean_PosZ.jpg"
+			},
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"guid": "896801a1-1a78-e045-b2b9-b6759fe68022"
+		}
+	},
+	"ShaderProgram": {
+		"8bcf98d0-4bb1-0047-a934-82cd248acd60": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/discard.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/basic.glsl"
+			},
+			"name": "Discard",
+			"guid": "8bcf98d0-4bb1-0047-a934-82cd248acd60"
+		},
+		"d036c47d-f211-a448-a189-e98313599c08": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/frag_blinn_phong_textured.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/basic.glsl"
+			},
+			"name": "Bling",
+			"guid": "d036c47d-f211-a448-a189-e98313599c08"
+		},
+		"f7d358af-2798-1b42-8c0d-9979599441bf": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/deferred_forward.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/basic.glsl"
+			},
+			"name": "",
+			"guid": "f7d358af-2798-1b42-8c0d-9979599441bf"
+		},
+		"bd961f61-f6bf-fa41-86f4-ca6c4f9cf71d": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/skybox_frag.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/skybox_vert.glsl"
+			},
+			"name": "",
+			"guid": "bd961f61-f6bf-fa41-86f4-ca6c4f9cf71d"
+		}
+	},
+	"Gameplay::Material": {
+		"53db5958-f448-4a42-b8e4-75c61bc3996f": {
+			"guid": "53db5958-f448-4a42-b8e4-75c61bc3996f",
+			"name": "DiscardBox",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "ed946e4e-b853-5c4d-9983-c1e3696a63f8"
+				}
+			},
+			"shader": "8bcf98d0-4bb1-0047-a934-82cd248acd60"
+		},
+		"f1c12967-e5f9-af41-9c76-69712d3315f7": {
+			"guid": "f1c12967-e5f9-af41-9c76-69712d3315f7",
+			"name": "Box",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "48f12eac-03bf-c545-9e24-cb221959cbc0"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 1.0
+				}
+			},
+			"shader": "d036c47d-f211-a448-a189-e98313599c08"
+		},
+		"da2f4af6-26cb-0c41-937e-fe10f00d2427": {
+			"guid": "da2f4af6-26cb-0c41-937e-fe10f00d2427",
+			"name": "Monkey",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "fa698d5d-46c2-ec45-9a23-cb32a4db093d"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.5
+				}
+			},
+			"shader": "d036c47d-f211-a448-a189-e98313599c08"
+		},
+		"967bffba-296a-a047-b69e-fbf10168b4e3": {
+			"guid": "967bffba-296a-a047-b69e-fbf10168b4e3",
+			"name": "Box-Specular",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "48f12eac-03bf-c545-9e24-cb221959cbc0"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.0
+				}
+			},
+			"shader": "d036c47d-f211-a448-a189-e98313599c08"
+		}
+	},
+	"Gameplay::MeshResource": {
+		"8c60547b-89d5-8c41-834a-471b94ee577a": {
+			"filename": "Monkey.obj",
+			"guid": "8c60547b-89d5-8c41-834a-471b94ee577a"
+		},
+		"64490603-0256-ca47-9dfe-a64345ab0403": {
+			"params": [
+				{
+					"color": {
+						"w": 1.0,
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"params": {
+						"normal": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 1.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"scale": {
+							"x": 1.0,
+							"y": 1.0,
+							"z": 0.0
+						},
+						"tangent": {
+							"x": 1.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"uv_scale": {
+							"x": 1.0,
+							"y": 1.0,
+							"z": 1.0
+						}
+					},
+					"type": "Plane"
+				}
+			],
+			"guid": "64490603-0256-ca47-9dfe-a64345ab0403"
+		},
+		"f93b985e-7b80-7940-a509-ccdce90fca9f": {
+			"params": [
+				{
+					"color": {
+						"w": 1.0,
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"params": {
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"radius": {
+							"x": 1.0,
+							"y": 1.0,
+							"z": 1.0
+						},
+						"tessellation": {
+							"x": 5.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					},
+					"type": "IcoShere"
+				}
+			],
+			"guid": "f93b985e-7b80-7940-a509-ccdce90fca9f"
+		},
+		"469d704d-77de-6249-8319-884199e77043": {
+			"params": [
+				{
+					"color": {
+						"w": 1.0,
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"params": {
+						"normal": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 1.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"scale": {
+							"x": 100.0,
+							"y": 100.0,
+							"z": 0.0
+						},
+						"tangent": {
+							"x": 1.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"uv_scale": {
+							"x": 20.0,
+							"y": 20.0,
+							"z": 1.0
+						}
+					},
+					"type": "Plane"
+				}
+			],
+			"guid": "469d704d-77de-6249-8319-884199e77043"
+		},
+		"2518962e-91be-2c4b-849d-ff34264ca714": {
+			"params": [
+				{
+					"color": {
+						"w": 1.0,
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"params": {
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"scale": {
+							"x": 1.0,
+							"y": 1.0,
+							"z": 1.0
+						}
+					},
+					"type": "Cube"
+				}
+			],
+			"guid": "2518962e-91be-2c4b-849d-ff34264ca714"
+		},
+		"30645882-fc06-2b45-b713-1b8d30e4f766": {
+			"params": [
+				{
+					"color": {
+						"w": 1.0,
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"params": {
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"scale": {
+							"x": 1.0,
+							"y": 1.0,
+							"z": 1.0
+						}
+					},
+					"type": "Cube"
+				}
+			],
+			"guid": "30645882-fc06-2b45-b713-1b8d30e4f766"
+		}
+	},
+	"Font": null,
+	"Framebuffer": null
+}
